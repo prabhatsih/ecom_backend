@@ -1,5 +1,5 @@
 const mongoose = require("mongoose")
-const MongoDbURl = "mongodb://localhost:27017/ecom"
+const MongoDbURl = "mongodb+srv://prabhats1410:9HuLL8cKLZDV66uu@cluster0.xtwhygp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 
 const ConnectDb = async()=>{
